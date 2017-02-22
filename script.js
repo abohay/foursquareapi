@@ -57,9 +57,3 @@ $( document ).ready(function(){
         })
     };
 });
-/*
-for each category 
- add the category name 
-----
-add the category 
-*/
