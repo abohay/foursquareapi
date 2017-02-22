@@ -42,7 +42,7 @@ $( document ).ready(function(){
                             html += "<p>No Address Added</p>";
                         }
                         
-                        html += "<a href='http://maps.google.com/?q="+elemento.location.lat+','+elemento.location.lng+"' target='_blank' class='location'>see the location on the map</a>";
+                        html += "<a href='https://maps.google.com/?q="+elemento.location.lat+','+elemento.location.lng+"' target='_blank' class='location'>see the location on the map</a>";
                         html += "</div>";
                         //console.log(elemento.name);
                         //console.log(elemento.location.formattedAddress[0]);
